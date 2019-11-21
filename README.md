@@ -12,8 +12,8 @@
 
 ## Getting started
 
-Clients for both the [REST API](https://docs.bitsian.com/#rest) and
-[streaming WebSocket API](https://docs.bitsian.com/#websocket) are included.
+Clients for both the [REST API](https://docs.bitsian.io/#rest) and
+[streaming WebSocket API](https://docs.bitsian.io/#websocket) are included.
 Private endpoints as indicated in the API docs require authentication with an API
 key and secret key.
 
@@ -25,7 +25,7 @@ const bitsianClient = require("bitsian-client");
 let client = new bitsianClient();
 ```
 You can learn about the API responses of each endpoint [by reading our
-documentation](http://docs.bitsian.com/).
+documentation](http://docs.bitsian.io/).
 
 ## Methods for Exchange Data
 For Exchange data methods, No permission needed for API key.
